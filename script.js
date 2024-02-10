@@ -42,5 +42,3 @@ function getComputerChoice() {
 
     return choices[compChoice];
 }
-
-
